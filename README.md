@@ -1,1 +1,1 @@
-# PiySocial_Media_Integration_App_project
+# Social_Media_Integration_App_project
